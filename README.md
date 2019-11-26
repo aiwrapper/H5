@@ -15,6 +15,7 @@ The AI will use the data given in the registration of the NGO to automatically f
 The potential developments for this idea include using AI to give the NGO feedback on their applications, using the rejections and acceptances of previous funding applications. There is also the possibility of using the site to connect NGOs of similar causes, as this will especially be aimed at small and early stage NGOs. 
 
 Proposal to X5GON
-	X5GON could be used for by the AI if there is a database of information about potential donors that can be accessed in future. There is also potential for X5GON to be used in the application guidance that will be offered to NGOs.
+
+X5GON could be used for by the AI if there is a database of information about potential donors that can be accessed in future. There is also potential for X5GON to be used in the application guidance that will be offered to NGOs.
 
 The website also contains a help page that features a video as to how to use it and also a helpline to help users by phone or by email with certain issues.
