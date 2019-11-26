@@ -4,7 +4,6 @@ Supporting organisations that make a difference
 How to run the file: Prerequisites: The website needs to run at 1920 x 1080 resolution setting with the scale set to 100%.
 Accessing the Webpage:
 Start “OPENING_PAGE.html” and the website can be navigated
-The website can then be navigated.
 
 Concept:
 
